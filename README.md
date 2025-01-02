@@ -13,10 +13,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/yogeshNavghane67/count.svg?"  />
